@@ -92,16 +92,22 @@ The goal of this project was to simulate an executive-level AI-powered business 
 ## Dashboard Preview
 
 ### Cover Slide
-(Add Cover Slide Screenshot Here)
+![Cover Slide](3.%20Screenshots/1.Cover%20Slide.png)
+
+---
 
 ### Executive Financial Overview
-(Add Executive Overview Screenshot Here)
+![Executive Financial Overview](3.%20Screenshots/2.%20Executive%20Financial%20Overview.png)
+
+---
 
 ### Revenue & Profitability Analysis
-(Add Profitability Analysis Screenshot Here)
+![Revenue & Profitability Analysis](3.%20Screenshots/3.%20Revenue%20%26%20Profitability%20Analysis.png)
+
+---
 
 ### AI Predictive Intelligence & Forecasting
-(Add Forecasting Dashboard Screenshot Here)
+![AI Predictive Intelligence & Forecasting](3.%20Screenshots/4.%20AI%20Predictive%20Intelligence%20%26%20Forecasting.png)
 
 ---
 
